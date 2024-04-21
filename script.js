@@ -29,7 +29,7 @@ for(let i=0;i<=item.length;i++){
  }
    // console.log(lati,longi)
    const Temp =element("div","temp","temp","");
-const Col = element("div","col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 g-2 text-center","","");
+const Col = element("div","col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 g-2 text-center","","");
 const Card = element("div","card","","")
 const Cardtitle = element("div","card-header","name","");
 const Cardbody = element("div","card-body","","");
