@@ -1,6 +1,14 @@
+
 #name{
     font-size:2em;
 }
 .card-img-top{
      height:250px !important;
+}
+.card{
+    border-radius: 20px !important;
+}
+#title{
+    font-size:5em !important;
+    font-weight: 700;
 }
